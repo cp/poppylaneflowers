@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    title: 'Poppy Lane Flowers',
     description: 'Poppy Lane Flowers greenhouse, selling flowers in Soldotna Alaska',
     author: `@cp`,
   },
