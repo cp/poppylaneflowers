@@ -30,6 +30,17 @@ const Header = ({ siteTitle }) => (
       </h1>
       <h1 style={{ margin: 0, flex: 1, textAlign: 'right'}}>
         <Link
+          to="/about"
+          style={{
+            color: `black`,
+            fontSize: '14px',
+            textDecoration: `none`,
+            marginRight: '10px',
+          }}
+        >
+          About
+        </Link>
+        <Link
           to="/gift-cards"
           style={{
             color: `black`,
